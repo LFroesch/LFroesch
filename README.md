@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @LFroesch
-- 👀 I’m interested in ... making fun projects and tools!
-- 🌱 I’m currently learning ... anything I can get my hands on!
-- ⚒️ I’m looking to collaborate on ... games, apps, webdev, and a startup!
+## Hey! 👋 
+
+I'm Lucas - I love building stuff and figuring out how things work.
+
+Currently working on games, web apps, and exploring startup ideas. Always down to learn new tech and collaborate on cool projects.
+
+Hit me up if you want to build something together!
 
 <!---
 LFroesch/LFroesch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
