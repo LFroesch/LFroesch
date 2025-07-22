@@ -2,7 +2,7 @@
 
 I'm Lucas - I love building stuff and figuring out how things work.
 
-Currently working on games, web apps, and exploring startup ideas. Always down to learn new tech and collaborate on cool projects.
+Currently working on cli/terminal apps & tools, games, web apps, and exploring jobs. Always down to learn new things and collaborate on cool projects.
 
 Hit me up if you want to build something together!
 
