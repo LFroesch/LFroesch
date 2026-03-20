@@ -1,14 +1,26 @@
-## Hey! 👋 
+# GitHub Profile README
 
-I'm Lucas - I love building stuff and figuring out how things work.
+Copy the block below into your GitHub profile repo's README.md:
 
-Currently working on CLI/TUI apps & tools, games, web apps, and exploring jobs. Always down to learn new things and collaborate on cool projects.
+---
 
-I love to find ways to make things more enjoyable to interact with as well as efficient both for the user and the backend!
+### Hi, I'm Lucas
 
-Hit me up if you want to build something together!
+Software developer building web apps, CLI tools, and infra. Transitioned from network technician — terminal-first workflow, multiple deployed apps.
 
-<!---
-LFroesch/LFroesch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Stack:** Go, TypeScript, Python | React, Node.js, BubbleTea | PostgreSQL, MongoDB, Docker
+
+**What I'm working on:**
+- Self-hosted portfolio infra on a DigitalOcean droplet — Docker Compose, Nginx, Let's Encrypt, live TUI demos via WebSocket
+- A suite of Go TUI tools: file explorer, port monitor, script runner, fake data generator, git client, bookmark manager
+
+**Featured projects:**
+- [dev-codex](https://github.com/LFroesch/dev-codex) — Full-stack SaaS with terminal UI, AI assistant, real-time collab, 1000+ tests
+- [scout](https://github.com/LFroesch/scout) — Go TUI file explorer with ripgrep search, git awareness, shell CD integration — my daily driver
+- [gather](https://github.com/LFroesch/gather) — Location-based social platform with real-time messaging, geospatial events, admin dashboard
+- vox — Voice-controlled desktop automation (Python) — NLP intents, workflow engine, window layout save/restore
+- 10+ Go TUI apps — [seedbank](https://github.com/LFroesch/seedbank), [portmon](https://github.com/LFroesch/portmon), [gitty](https://github.com/LFroesch/gitty), [zap](https://github.com/LFroesch/zap), [lif](https://github.com/LFroesch/lif), and more
+
+**Portfolio:** [froesch.dev](https://froesch.dev) — live site with interactive TUI demos
+
+Open to opportunities — lucas.froeschner@gmail.com | [LinkedIn](https://linkedin.com/in/lucas-froeschner187)
