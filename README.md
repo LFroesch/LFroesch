@@ -1,10 +1,4 @@
-# GitHub Profile README
-
-Copy the block below into your GitHub profile repo's README.md:
-
----
-
-### Hi, I'm Lucas
+### Hi, I'm Lucas 👋
 
 Software developer building web apps, CLI tools, and infra. Transitioned from network technician — terminal-first workflow, multiple deployed apps.
 
