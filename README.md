@@ -1,19 +1,21 @@
-### Hi, I'm Lucas 👋
+Hi, I'm Lucas.
 
-Software developer building web apps, CLI tools, and more! Buried in a terminal somewhere!
+I build backend systems, full-stack apps, and a growing suite of Go terminal tools.
 
-**Stack:** Go, TypeScript, Python | React, Node.js, BubbleTea | PostgreSQL, MongoDB, Docker
+Right now I'm focused on `tui-hub`, a shared launcher and install/update layer for 12+ TUI apps I use and ship as a cohesive suite. I also build browser-based products, self-host the infrastructure behind them, and spend a lot of time on workflows, tooling, and software that feels good to use.
 
-**What I'm working on:**
-- Self-hosted portfolio infra on a DigitalOcean droplet — Docker Compose, Nginx, Let's Encrypt, live TUI demos via WebSocket
-- A suite of Go TUI tools: agent cockpit, file explorer, port monitor, script runner, fake data generator, bookmark manager, backup manager and more
+Stack: Go, TypeScript, Python, React, Node.js, PostgreSQL, MongoDB, Docker
 
-**Featured projects:**
-- [tui-hub](https://github.com/LFroesch/tui-hub) — 10+ Go TUI apps covering all sorts of daily use cases.
-- [dev-codex](https://github.com/LFroesch/dev-codex) — Full-stack SaaS with terminal UI, AI assistant, real-time collab, 1000+ tests
-- [vox](https://github.com/LFroesch/vox) — Voice-controlled desktop automation (Python) — NLP intents, workflow engine, window layout save/restore
-- [gather](https://github.com/LFroesch/gather) — Location-based social platform with real-time messaging, geospatial events, admin dashboard
+A few projects:
 
-**Portfolio:** [froesch.dev](https://froesch.dev) — live site with interactive TUI demos
+- [tui-hub](https://github.com/LFroesch/tui-hub) — shared launcher and product layer for my Go TUI suite
+- [dev-codex](https://github.com/LFroesch/dev-codex) — terminal-first full-stack app with AI workflows, realtime collaboration, and browser-native command UX
+- [gather](https://github.com/LFroesch/gather) — geospatial social app with realtime messaging and moderation tooling
+- [vox](https://github.com/LFroesch/vox) — voice-powered desktop automation app for Windows
+- [froesch.dev](https://froesch.dev) — self-hosted portfolio with live terminal demos streamed from my own server
 
-Open to opportunities — lucas.froeschner@gmail.com | [LinkedIn](https://linkedin.com/in/lucas-froeschner187)
+Most of what I make starts as something I want on my own machine, then grows from there.
+
+Open to backend or full-stack roles.
+
+[froesch.dev](https://froesch.dev) • [GitHub](https://github.com/LFroesch) • [LinkedIn](https://linkedin.com/in/lucas-froeschner187)
